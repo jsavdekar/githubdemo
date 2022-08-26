@@ -1,0 +1,19 @@
+{
+  "refType": "drug",
+  "code": "drug 2025",
+  "label": "drug 2025",
+  "status": "DRAFT",
+  "active": true,
+  "attributes": {
+    "drug": "drug 2025",
+    "aliases": [
+      "drug 1"
+    ],
+    "grpClass": "drug 1",
+    "brands": [
+      "drug 1"
+    ],
+    "mechAction": "drug1",
+    "targetedDrug": "Yes"
+  }
+}

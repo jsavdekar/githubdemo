@@ -1,0 +1,12 @@
+{
+  "scenario1":
+  {
+    "name": "TestUser1",
+    "job": "Automation Engineer1"
+  },
+  "scenario2":
+  {
+    "name": "TestUser2",
+    "job": "Automation Engineer2"
+  }
+}
